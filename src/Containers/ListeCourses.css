@@ -1,0 +1,73 @@
+.liste {
+    list-style-type: none;
+
+}
+
+.raye {
+    text-decoration: line-through;
+}
+.blocListe {
+    margin-top: 50px;
+    border: 2px dashed blue;
+    border-radius: 10px;
+    background-color: rgb(248, 247, 241);
+
+}
+.titreArticle {
+    margin-top: -10px;
+    padding-left: 15px;
+    width: 50%;
+    text-align: left;
+    font-size: 2rem;
+}
+
+.listeArticles {
+    margin-top: 30px;
+}
+
+.listeRayon {
+    margin-bottom: 15px;
+}
+
+.clsRayon {
+    text-align: left;
+    font-size: 3rem;
+    padding-left: 15px;
+}
+
+.cache {
+    display: none;
+}
+
+.panier {
+    position: relative;
+    top: -10px;
+    padding-left: 15px;
+}
+
+.titre {
+    font-size: 4rem;
+    font-family: Sevillana, sans-serif;
+
+}
+
+.vider {
+    position: absolute;
+    bottom: 89%;
+    left: 90%;
+
+}
+
+.imgRayon {
+    padding-left: 15px;
+    position: relative;
+    bottom: 10px;
+}
+
+@font-face {
+	font-family: "Sevillana";
+	src: url("/Sevillana-Regular-webfont.woff") format("woff"),
+    url("/Sevillana-Regular-webfont.ttf") format("truetype"),
+    url("/Sevillana-Regular-webfont.eof");
+    
+}

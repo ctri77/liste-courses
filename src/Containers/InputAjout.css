@@ -1,0 +1,11 @@
+.ligne {
+    display: flex;
+    flex-wrap: nowrap!important;
+    margin-top: 30px;
+    justify-content: center;
+    
+
+}
+
+
+

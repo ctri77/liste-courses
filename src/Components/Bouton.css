@@ -1,0 +1,31 @@
+.boutonAjout {
+    background: url('https://i.postimg.cc/j2kzbkgk/medical-history-1.png') no-repeat;
+    width: 64px;
+    height: 64px;
+    position: relative;
+    bottom: 10px;
+}
+
+.boutonSupp {
+    background: url('https://i.postimg.cc/P5v1hncn/trash.png') no-repeat;
+    position: relative;
+    bottom: 5px;
+    width: 35px;
+    height: 35px;
+}
+
+.boutonSupp:hover {
+    background: url('https://i.postimg.cc/653djvf3/trash-1.png') no-repeat;
+}
+
+button {
+    border-width: 0px;
+
+}
+
+.boutonVider {
+    background: url('https://i.postimg.cc/wjRBfh49/icons8-vider-80.png') no-repeat;
+    width: 80px;
+    height: 80px;
+    
+}
